@@ -25,3 +25,8 @@
 - Properly chain class selectors for each rule
 - The `proportioned` image retain its original square proportions
 - The `distorted` image end up looking squished and distorted
+
+## Descendant Combinator
+
+- The elements that contain the text "This should be styled" have the correct styles applied
+- The elements that contain the text "This should be unstyled" have no styles applied
