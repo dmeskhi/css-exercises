@@ -1,0 +1,15 @@
+/* first element declaration */
+.first {
+    background-color: black;
+    color: white;
+}
+/* second element declaration */
+.second {
+    background-color: yellow;
+}
+/* grouping both elements */
+.first,
+.second {
+    font-size: 28px;
+    font-family: 'Times New Roman', 'Helvetica', sans-serif;
+}
