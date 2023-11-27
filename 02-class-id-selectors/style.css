@@ -1,0 +1,23 @@
+/* First element */
+.first {
+    background-color: #ffb6c2;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/* ID */
+#second {
+    color:blue;
+    font-size: 36px;
+}
+
+/* Third element */
+.third.first {
+    font-size: 24px;
+}
+
+/* Fourth element */
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
