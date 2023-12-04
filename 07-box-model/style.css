@@ -10,3 +10,18 @@
     box-sizing: border-box;
     
 }
+
+hr {
+    background-color: black;
+    width: auto;
+    height: 1px;
+}
+
+.box1 {
+    border: 5px dotted black;
+    margin-top: 20px;
+    margin-right: 1em;
+    margin-bottom: 40px;
+    margin-left: 20px;
+    padding: 1em;
+}
